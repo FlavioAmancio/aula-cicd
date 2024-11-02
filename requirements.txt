@@ -1,11 +1,11 @@
-asgiref==3.9.0
+asgiref==3.8.2
 astroid==3.3.5
 certifi==2024.8.30
 charset-normalizer==3.3.2
 coverage==7.4.0
 defusedxml==0.7.1
 dill==0.3.7
-Django==5.1.2
+Django==4.2​
 django-nose==1.4.7
 djangorestframework==3.14.0
 idna==3.6
