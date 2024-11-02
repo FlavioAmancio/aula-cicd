@@ -1,4 +1,4 @@
-asgiref==3.8.2
+asgiref==3.8.1
 django==5.1.2
 astroid==3.3.5
 certifi==2024.8.30
