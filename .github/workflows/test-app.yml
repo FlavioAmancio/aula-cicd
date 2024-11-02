@@ -52,6 +52,10 @@ jobs:
     # Primeiro step fazendo Build da imagem do Docker
     steps:
 
+      # Atualizando PIP
+      - name: "Pip Upgrade"
+        run: pip install --upgrade pip
+
       # Utilizando a action do checkout do github, vai clonar o repositório
       - uses: actions/checkout@v4
 
