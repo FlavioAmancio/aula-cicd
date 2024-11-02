@@ -1,6 +1,6 @@
 asgiref==3.8.1
 django==5.1.2
-astroid==3.1.0
+astroid==3.0.1
 certifi==2024.8.30
 charset-normalizer==3.3.2
 coverage==7.4.0
